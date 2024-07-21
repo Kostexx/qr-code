@@ -29,6 +29,10 @@ body {
     border-radius: 10px;
 }
 
+.text {
+    padding: 0 7px;
+}
+
 .text h2 {
     font-weight: 700;
     text-align: center;
