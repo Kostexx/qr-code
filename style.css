@@ -13,7 +13,7 @@ body {
 
 .container {
     margin: auto;
-    max-width: 350px;
+    max-width: 340px;
 }
 
 .card {
@@ -27,10 +27,6 @@ body {
 .card img {
     width: 100%;
     border-radius: 10px;
-}
-
-.text {
-    padding: 0 2rem;
 }
 
 .text h2 {
